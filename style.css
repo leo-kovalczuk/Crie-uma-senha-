@@ -2,10 +2,10 @@
 @import url('https://fonts.googleapis.com/css2?family=Luckiest+Guy&family=Manufacturing+Consent&display=swap');
 :root{
     --branco: white;
-    --cor-de-fundo:#003e04;
-    --fundo-senha:#0b6a06;
-    --fundo-texto:#25ae13;
-    --borda:#17e11e;
+    --cor-de-fundo:#033e00;
+    --fundo-senha:#118b0b;
+    --fundo-texto:#19c739;
+    --borda:#04f450;
     --fonte-principal:'luckiest guy',monospace;
     --fonte-secundaria:'manufacturing'
 }
