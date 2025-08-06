@@ -7,7 +7,7 @@
     --fundo-texto:#19c739;
     --borda:#04f450;
     --fonte-principal:'luckiest guy',monospace;
-    --fonte-secundaria:'manufacturing'
+    --fonte-secundaria:'manufacturing';
 }
 body{
     background-color: var(--cor-de-fundo);
