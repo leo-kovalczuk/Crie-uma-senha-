@@ -6,6 +6,7 @@
     --fundo-senha:#0b8b2d;
     --fundo-texto:#0b8b2d;
     --borda:#04f450;
+    --preto:#000000;
     --fonte-principal:'luckiest guy',monospace;
     --fonte-secundaria:'manufacturing',monospace;
 }
@@ -36,12 +37,12 @@ body{
 .titulo-principal{
     font-family: var(--fonte-principal);
     font-size: 32px;
-    color: #03260e;
+    color: var(--preto);
 }
 .titulo-secundario{
     font-family: var(--fonte-secundaria);
     font-size: 24px;
-    color: #03260e;
+    color: var(--preto);
 }
 img{
     width: 8%;
