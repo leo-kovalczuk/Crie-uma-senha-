@@ -57,12 +57,12 @@ img{
 .parametro-titulo{
     font-family: var(--fonte-principal);
     font-size: 28px;
-    color: #003e15;
+    color: #03260e;
 }
 .parametro-senha-titulo{
     font-family: var(--fonte-secundaria);
     font-size: 24px;
-    color: #003e15;
+    color: #03260e;
 }
 .parametro-coluna-senha{
     display: flex;
