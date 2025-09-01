@@ -134,4 +134,21 @@ label {
     height: 30px;
     width: 25%;
     background-color: #9a0000;
+    position: relative;
+    bottom: 30px;
 }
+.media{
+    height: 30px;
+    width: 50%;
+    background-color: #cfc50c;
+    position: relative;
+    bottom: 30px;
+}
+.forte{
+    height: 30px;
+    width: 100%;
+    background-color: #4ec70d;
+    position: relative;
+    bottom: 30px;
+}
+
