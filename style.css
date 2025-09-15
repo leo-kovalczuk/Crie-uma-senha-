@@ -11,20 +11,16 @@
     --fonte-principal: 'luckiest guy', monospace;
     --fonte-secundaria: 'manufacturing', monospace;
 }
-
 body {
     background-color: var(--cor-de-fundo);
     color: var(--branco);
 }
-
 .conteudo-titulo {
     text-align: center;
 }
-
 * {
     font-weight: 400;
 }
-
 .conteudo-senha {
     margin-top: 80px;
     background-color: var(--fundo-senha);
@@ -58,7 +54,7 @@ img {
     height: 8%;
 }
 
-#campo-senha {
+#campo-senha:focus{
     outline: none;
 }
 
